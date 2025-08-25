@@ -1,0 +1,31 @@
+prompt_text,material_damage_pred,time_cost_pred,material_damage_gt,time_cost_gt
+"A very old, decaying door falling apart., pencil sketch, ink drawing",11.843591,43.05537,7.9836583,26.239176
+"A security guard inspecting a damaged gate., pencil sketch, ink drawing",48.73382,16.752342,53.534073,14.005269
+"A simple act of closing a door., pencil sketch, ink drawing",18.933243,44.608704,16.72448,41.564575
+"A team of engineers carefully disassembling a device., pencil sketch, ink drawing",8.552742,31.296623,20.102697,28.546276
+"A child gently taps on a glass door, trying to get attention., pencil sketch, ink drawing",14.437159,28.747835,24.957489,13.669603
+"A vague request: open the container., pencil sketch, ink drawing",-2.8529575,21.462683,8.447352,13.8195
+"A construction worker demolishing a brick wall., pencil sketch, ink drawing",16.803608,46.477898,12.639059,38.715828
+"A wizard casting a spell to unlock a magical gate., pencil sketch, ink drawing",3.7070994,-10.054328,12.94442,14.868486
+"A rescue team cutting through a car door., pencil sketch, ink drawing",44.35744,37.795578,29.805088,40.188366
+"A puppy scratching lightly at a door., pencil sketch, ink drawing",21.909811,33.232193,21.136988,41.143154
+"A person removing a loose floorboard., pencil sketch, ink drawing",32.93534,31.781574,26.38617,25.550722
+"An elegant door with intricate carvings, perfectly intact., pencil sketch, ink drawing",-3.4877322,29.753958,12.377596,30.626772
+"A woman carefully waits for a locksmith to open a locked door., pencil sketch, ink drawing",14.882368,29.555962,23.345444,36.91846
+"A quiet room with an untouched antique door., pencil sketch, ink drawing",8.868242,-3.4947736,11.5955715,15.3962555
+"A strong wind blowing open a window., pencil sketch, ink drawing",13.5057955,16.616957,13.233251,28.049965
+"A man breaks a wooden door with an axe, splinters flying., pencil sketch, ink drawing",91.99483,20.557806,82.66938,30.685083
+"A person calmly entering a building., pencil sketch, ink drawing",-1.111054,39.686165,14.054681,28.94242
+"A chaotic scene of a door being forced open by a crowd., pencil sketch, ink drawing",16.048433,27.151598,11.423215,11.247114
+"A detailed description of a robot dismantling a wall., pencil sketch, ink drawing",14.812537,42.344894,22.332664,22.675413
+"A cat trying to squeeze under a door., pencil sketch, ink drawing",-2.1606042,25.650005,12.427782,37.20291
+"A group of people celebrating in front of an open door., pencil sketch, ink drawing",-11.291514,10.222788,10.59716,13.88801
+"A person sitting patiently in front of a closed door., pencil sketch, ink drawing",4.1031046,51.4637,10.5546665,43.69292
+"A person repeatedly kicks a metal door, causing significant dents., pencil sketch, ink drawing",21.368677,37.800285,18.245289,33.043343
+"A ghost passing through a solid wall., pencil sketch, ink drawing",5.974839,29.84221,5.1408067,39.943245
+"A storm trooper blasting open a reinforced door., pencil sketch, ink drawing",0.10732817,17.901707,5.2959723,24.995024
+"A sci-fi portal opening with shimmering energy., pencil sketch, ink drawing",31.14727,30.260408,25.009022,13.12506
+"A robot breaking a window to enter a room., pencil sketch, ink drawing",75.94351,31.01624,72.540764,21.664198
+"A thief attempting to pick a lock on a wooden door., pencil sketch, ink drawing",25.406113,27.750221,28.584188,44.16268
+"A person slowly pushing a heavy vault door., pencil sketch, ink drawing",3.8732371,38.79335,13.020418,66.85751
+"A precise instruction: unscrew the left panel., pencil sketch, ink drawing",2.5377142,30.051195,6.350697,43.43399

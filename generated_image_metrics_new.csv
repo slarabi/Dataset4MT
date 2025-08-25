@@ -1,0 +1,31 @@
+image_name,prompt_text,material_damage_gt,time_cost_gt,prompt_quality_gt,image_path
+mental_image_01.png,A teenager barricading a door with furniture.,14.71834898992496,23.605688585894946,59.71834898992496,mental_images/mental_image_01.png
+mental_image_02.png,A painter adding a fresh coat of paint to a wall.,7.0228407613300385,12.831977065862054,52.02284076133004,mental_images/mental_image_02.png
+mental_image_03.png,"A cat sitting on a windowsill, looking out.",23.207186538626797,35.490061154077516,68.2071865386268,mental_images/mental_image_03.png
+mental_image_04.png,A demolition crew using a wrecking ball on a large building.,90.48557876582942,23.713946914573555,59.79567636755254,mental_images/mental_image_04.png
+mental_image_05.png,A carpenter repairing a broken wooden window frame.,55.040372879707604,50.0807457594152,68.80046609963449,mental_images/mental_image_05.png
+mental_image_06.png,A person walking through a revolving glass door.,6.451535397976258,12.032149557166761,51.45153539797626,mental_images/mental_image_06.png
+mental_image_07.png,A gust of wind rattling a loosely-fastened door.,22.097917174355327,7.155250182767919,67.09791717435533,mental_images/mental_image_07.png
+mental_image_08.png,A gardener trimming ivy that covers a stone wall.,14.024965737283772,22.63495203219728,59.02496573728377,mental_images/mental_image_08.png
+mental_image_09.png,A delivery person dropping a package and scuffing a door.,49.76334829835517,27.085859522121545,62.20418537294396,mental_images/mental_image_09.png
+mental_image_10.png,A family happily gathered around a fireplace in a cozy room.,28.987711261421445,43.58279576599003,73.98771126142145,mental_images/mental_image_10.png
+mental_image_11.png,A toddler scribbling on a wall with crayons.,29.82240151323708,44.75136211853191,49.78688181588449,mental_images/mental_image_11.png
+mental_image_12.png,A scientist opening a sealed chamber door.,7.813491723240954,13.938888412537336,52.81349172324096,mental_images/mental_image_12.png
+mental_image_13.png,A superhero creating a large hole in a brick wall.,70.13366550925652,10.18713171295912,50.13366550925652,mental_images/mental_image_13.png
+mental_image_14.png,A chef adding a fresh door to a new kitchen cabinet.,11.534122982616225,19.147772175662716,56.534122982616225,mental_images/mental_image_14.png
+mental_image_15.png,A robot opening a locked safe door with a laser.,19.94406648694159,30.921693081718225,64.9440664869416,mental_images/mental_image_15.png
+mental_image_16.png,A team of archaeologists carefully uncovering an ancient ruin.,15.900093195226173,86.16022366854281,88.72007455618095,mental_images/mental_image_16.png
+mental_image_17.png,A teenager carving their initials into a tree trunk.,7.513434069991019,13.518807697987427,52.51343406999102,mental_images/mental_image_17.png
+mental_image_18.png,A burglar prying open a metal door with a crowbar.,14.388562560352357,23.1439875844933,59.388562560352355,mental_images/mental_image_18.png
+mental_image_19.png,A group of friends patiently waiting for a concert to begin.,22.15886606591863,101.18127855820472,67.15886606591863,mental_images/mental_image_19.png
+mental_image_20.png,A person removing a sticker from a glass pane.,7.958399932155089,14.141759905017125,52.95839993215509,mental_images/mental_image_20.png
+mental_image_21.png,A knight smashing a castle gate with a mace.,88.48345973610135,3.239366973208014,56.220463814466704,mental_images/mental_image_21.png
+mental_image_22.png,An artist spray-painting a mural on a wall.,7.096913315884427,12.935678642238198,52.09691331588443,mental_images/mental_image_22.png
+mental_image_23.png,A security guard unlocking a high-security vault door.,23.063007929791034,35.28821110170745,68.06300792979104,mental_images/mental_image_23.png
+mental_image_24.png,"A car crashing into a garage door, leaving a big dent.",83.83153177712714,5.9793514397657725,63.83153177712715,mental_images/mental_image_24.png
+mental_image_25.png,A dog scratching at a screen door to be let inside.,56.45307301557348,38.79287777725359,70.56634126946685,mental_images/mental_image_25.png
+mental_image_26.png,A person gently knocking on a wooden door.,29.396279535865467,44.15479135021165,74.39627953586546,mental_images/mental_image_26.png
+mental_image_27.png,A worker installing a new doorknob on a door.,8.70182038080542,15.182548533127589,53.70182038080542,mental_images/mental_image_27.png
+mental_image_28.png,"A person leaning against a wall, deep in thought.",27.065557529694242,40.89178054157193,72.06555752969425,mental_images/mental_image_28.png
+mental_image_29.png,"A house cat scratching a sofa, slowly tearing it apart.",56.91113027671971,110.73339083015912,71.13891284589964,mental_images/mental_image_29.png
+mental_image_30.png,A crowd trying to push open a door during an emergency.,7.238377189437085,13.133728065211919,52.23837718943709,mental_images/mental_image_30.png

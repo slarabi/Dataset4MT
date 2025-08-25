@@ -1,0 +1,7 @@
+image_name,prompt_text,material_damage_gt,time_cost_gt,prompt_quality_gt
+mental_image_28.png,A person removing a loose floorboard.,24.879364192017203,25.680511608147714,68.90816273257214
+mental_image_16.png,A puppy scratching lightly at a door.,11.187717033590124,10.114865940569354,59.70762420244591
+mental_image_24.png,A person sitting patiently in front of a closed door.,26.921356139160373,23.544394733246715,50.75545229319341
+mental_image_18.png,A person calmly entering a building.,26.05414929341004,22.436041516196056,51.67938985052726
+mental_image_09.png,A strong wind blowing open a window.,9.273372130108926,18.843769145417696,70.5248145390566
+mental_image_10.png,A quiet room with an untouched antique door.,10.1084684536281,17.602689269748176,52.66589875196027
