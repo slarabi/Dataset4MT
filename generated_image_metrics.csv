@@ -1,0 +1,31 @@
+image_name,prompt_text,material_damage_gt,time_cost_gt,prompt_quality_gt
+mental_image_01.png,"A man breaks a wooden door with an axe, splinters flying., pencil sketch, ink drawing",82.6693866714834,30.685082010307717,73.13773590639316
+mental_image_02.png,"A woman carefully waits for a locksmith to open a locked door., pencil sketch, ink drawing",23.345443832939054,36.918460758902455,56.24566178524087
+mental_image_03.png,"A child gently taps on a glass door, trying to get attention., pencil sketch, ink drawing",24.957489346040514,13.669603199877706,67.64961518545854
+mental_image_04.png,"A person repeatedly kicks a metal door, causing significant dents., pencil sketch, ink drawing",18.245289418550524,33.043342360602225,65.1872648879112
+mental_image_05.png,"A detailed description of a robot dismantling a wall., pencil sketch, ink drawing",22.33266464278809,22.67541380845647,98.67475387198408
+mental_image_06.png,"A vague request: open the container., pencil sketch, ink drawing",8.447351839236795,13.819499673894935,33.40906968876892
+mental_image_07.png,"A precise instruction: unscrew the left panel., pencil sketch, ink drawing",6.350696699582138,43.433988886466416,81.88342189630518
+mental_image_08.png,"A simple act of closing a door., pencil sketch, ink drawing",16.724480606878473,41.564572468297584,69.15511743898307
+mental_image_09.png,"A strong wind blowing open a window., pencil sketch, ink drawing",13.23325032944272,28.049965975848938,68.24882680436477
+mental_image_10.png,"A quiet room with an untouched antique door., pencil sketch, ink drawing",11.595571492779085,15.39625535407357,72.0370383706569
+mental_image_11.png,"A chaotic scene of a door being forced open by a crowd., pencil sketch, ink drawing",11.423215071100083,11.247113886475315,62.75984203207305
+mental_image_12.png,"A person slowly pushing a heavy vault door., pencil sketch, ink drawing",13.020418347270333,66.85751860953211,51.98665771679255
+mental_image_13.png,"A construction worker demolishing a brick wall., pencil sketch, ink drawing",12.639059306830607,38.715827143832186,58.546927691268955
+mental_image_14.png,"A wizard casting a spell to unlock a magical gate., pencil sketch, ink drawing",12.94442070114211,14.86848606268167,74.09499660083486
+mental_image_15.png,"A team of engineers carefully disassembling a device., pencil sketch, ink drawing",20.102698542000198,28.54627439349725,58.205605878928296
+mental_image_16.png,"A puppy scratching lightly at a door., pencil sketch, ink drawing",21.13698675101763,41.1431527696048,50.65473035169658
+mental_image_17.png,"A storm trooper blasting open a reinforced door., pencil sketch, ink drawing",5.295972034124975,24.99502453478071,71.96558399934253
+mental_image_18.png,"A person calmly entering a building., pencil sketch, ink drawing",14.054681099611889,28.942419309332493,61.648404783386944
+mental_image_19.png,"A security guard inspecting a damaged gate., pencil sketch, ink drawing",53.534071299079976,14.005269527548442,70.29312767482767
+mental_image_20.png,"A thief attempting to pick a lock on a wooden door., pencil sketch, ink drawing",28.58418900869076,44.162679701818796,73.28153022297525
+mental_image_21.png,"An elegant door with intricate carvings, perfectly intact., pencil sketch, ink drawing",12.377595808796533,30.62677218037128,67.15077599360926
+mental_image_22.png,"A sci-fi portal opening with shimmering energy., pencil sketch, ink drawing",25.00902303365059,13.125059744293154,69.501302752526
+mental_image_23.png,"A rescue team cutting through a car door., pencil sketch, ink drawing",29.80508882621627,40.18836617730281,63.47656225459466
+mental_image_24.png,"A person sitting patiently in front of a closed door., pencil sketch, ink drawing",10.55466574453824,43.69292048719608,54.35996145186535
+mental_image_25.png,"A ghost passing through a solid wall., pencil sketch, ink drawing",5.140806547097591,39.94324470544523,64.95267028857711
+mental_image_26.png,"A robot breaking a window to enter a room., pencil sketch, ink drawing",72.54076003747899,21.664199111375698,61.284912309930476
+mental_image_27.png,"A cat trying to squeeze under a door., pencil sketch, ink drawing",12.427782577784907,37.20291065598114,60.19303982591559
+mental_image_28.png,"A person removing a loose floorboard., pencil sketch, ink drawing",26.386168561909237,25.550721420852696,57.80114842632102
+mental_image_29.png,"A very old, decaying door falling apart., pencil sketch, ink drawing",7.983658304985761,26.23917529703627,67.21244652378331
+mental_image_30.png,"A group of people celebrating in front of an open door., pencil sketch, ink drawing",10.597160047268185,13.888010244107255,73.20280408714709
